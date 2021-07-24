@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProgramasCSharp\\ConceitoDeEncapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {}
+    "C:\\Users\\David\\Source\\Repos\\DavidMoraes-DEV\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {}
   },
   "projects": {
-    "C:\\ProgramasCSharp\\ConceitoDeEncapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {
+    "C:\\Users\\David\\Source\\Repos\\DavidMoraes-DEV\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProgramasCSharp\\ConceitoDeEncapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Source\\Repos\\DavidMoraes-DEV\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\ProgramasCSharp\\ConceitoDeEncapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
-        "packagesPath": "C:\\Users\\Cliente ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\ProgramasCSharp\\ConceitoDeEncapsulamento\\Encapsulamento\\Encapsulamento\\obj\\",
+        "projectPath": "C:\\Users\\David\\Source\\Repos\\DavidMoraes-DEV\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Source\\Repos\\DavidMoraes-DEV\\Encapsulamento\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cliente ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

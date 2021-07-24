@@ -21,3 +21,10 @@ namespace Encapsulamento
         }
     }
 }
+/*O QUE É ENCAPSULAMENTO?
+
+- É um princípio que consiste em esconder detalhes de implementação de um componente, expondo apenas operações seguras
+e que o mantenha em um estado consistente.
+
+- Regra de Ouro: O objeto deve sempre estar em um estado consistente, e a própria classe deve garantir isso.
+ */
