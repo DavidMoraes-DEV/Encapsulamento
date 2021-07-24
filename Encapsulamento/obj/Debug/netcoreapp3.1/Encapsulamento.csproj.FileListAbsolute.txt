@@ -11,3 +11,16 @@ C:\ProgramasCSharp\ConceitoDeEncapsulamento\Encapsulamento\Encapsulamento\obj\De
 C:\ProgramasCSharp\ConceitoDeEncapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
 C:\ProgramasCSharp\ConceitoDeEncapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
 C:\ProgramasCSharp\ConceitoDeEncapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\David\Source\Repos\DavidMoraes-DEV\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache
